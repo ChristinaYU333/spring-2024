@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Just some quotes from “<em> Lie With Me</em>’’ by Philippe Besson </title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<hr> <!-- Horizontal line -->
+<h2>Quote from "Lie With Me" by Philippe Besson</h2> <!-- Header element -->
+<p>“I discover that absence has a consistency, like the dark water of a river, like oil, some kind of sticky dirty liquid that you can struggle and perhaps drown in. It has a thickness like night, an indefinite space with no landmarks, nothing to bang against, where you search for a light, some small glimmer, something to hang on to and guide you. But absence is, first and foremost, silence. <b>A vast, enveloping silence that weighs you down and puts you in a state where any unforeseeable, unidentifiable sound can make you jump.“</b></p> <!-- Paragraph tag and bold text -->
+<a href="https://www.goodreads.com/quotes/10118640-i-discover-that-absence-has-a-consistency-like-the-dark">my link</a> <!-- Hyperlink -->
+<ul> <!-- Unordered list -->
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+<ol> <!-- Ordered list -->
+  <li>Item A</li>
+  <li>Item B</li>
+</ol>
+<br> <!-- Line break -->
+&nbsp; <!-- Non-breaking space -->
+<em>Italic text</em> <!-- Italics -->
+</body>
+</html>
